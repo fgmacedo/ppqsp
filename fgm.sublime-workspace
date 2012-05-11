@@ -1,0 +1,741 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font	font-size: size"
+			],
+			[
+				"price",
+				"price_in_dollars  (variable)"
+			],
+			[
+				"get",
+				"get_object_or_404  (function)"
+			],
+			[
+				"Ca",
+				"CatalogCategory  (class)"
+			],
+			[
+				"Htt",
+				"HttpResponse  (class)"
+			],
+			[
+				"Pro",
+				"ProductDetailInline"
+			],
+			[
+				"Produ",
+				"ProductDetailAdmin"
+			],
+			[
+				"Cata",
+				"CatalogCategoryAdmin"
+			],
+			[
+				"margin",
+				"margin	margin-bottom: length"
+			],
+			[
+				"dis",
+				"display	display: common-types"
+			],
+			[
+				"pa",
+				"padding	padding-bottom: length"
+			],
+			[
+				"ba",
+				"background	background-color: hex"
+			],
+			[
+				"TesteDe",
+				"TesteDeLoja"
+			],
+			[
+				"for",
+				"format_conta"
+			],
+			[
+				"conta",
+				"conta_id"
+			],
+			[
+				"def",
+				"define_tables"
+			],
+			[
+				"NO",
+				"NOMES_D"
+			],
+			[
+				"im",
+				"img_gde_nome"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exercicios01/baralho_polimorfico.py",
+			"settings":
+			{
+				"buffer_size": 2329,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rest",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"paka",
+				"Preferences: Browse Packages"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"linte",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hg",
+				"SublimeHg: Open CLI"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 239.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/ppqsp/ppqsp/exercicios01/01_baralho_polimorfico.py",
+		"/C/Python27/Lib/site-packages/pylint/pyreverse/writer.py",
+		"/C/Python27/Lib/site-packages/pylint/pyreverse/utils.py",
+		"/C/Python27/Lib/site-packages/pylint/pyreverse/diagrams.py",
+		"/C/Python27/Lib/site-packages/pylint/pyreverse/diadefslib.py",
+		"/C/Python27/Lib/site-packages/pylint/pyreverse/__init__.py",
+		"/C/Python27/Lib/site-packages/logilab/common/configuration.py",
+		"/C/Python27/Lib/site-packages/pylint/pyreverse/main.py",
+		"/C/Python27/Lib/collections.py",
+		"/G/ppqsp/ppqsp/fgm/gerando_letra.py",
+		"/D/Projetos/premium/mpremium/catalog/fixtures/fixture.json",
+		"/D/Projetos/premium/mp/applications/init/views/servidor/show.html",
+		"/D/Projetos/premium/mpremium/catalog/templates/catalog/category_list.html",
+		"/D/Projetos/premium/mpremium/mpremium/urls.py",
+		"/D/Projetos/premium/mp/applications/init/views/servidor/listar.html",
+		"/C/Python27/Lib/site-packages/django/db/models/fields/__init__.py",
+		"/C/Python27/Lib/site-packages/django/contrib/gis/db/models/fields.py",
+		"/C/Python27/Lib/site-packages/django/db/models/base.py",
+		"/D/Projetos/premium/mp/gluon/html.py",
+		"/C/Python27/Lib/site-packages/django/template/defaultfilters.py",
+		"/D/Projetos/premium/mpremium/upworks/templatetags/helpers.py",
+		"/C/Python27/Lib/site-packages/django/contrib/flatpages/tests/templatetags.py",
+		"/D/Projetos/premium/mp/gluon/validators.py",
+		"/D/Projetos/premium/mpremium/upworks/templatetags/__init__.py",
+		"/D/Projetos/premium/mpremium/catalog/templates/catalog/base.html",
+		"/D/Projetos/premium/mp/applications/init/views/servidor/servidor.html",
+		"/D/Projetos/premium/mpremium/catalog/templates/category_list.html",
+		"/C/Python27/Lib/site-packages/django/template/base.py",
+		"/D/Projetos/premium/mpremium/mpremium/templates/admin/base_site.html",
+		"/C/Python27/Lib/site-packages/django/contrib/admin/templates/admin/base_site.html",
+		"/C/Python27/Lib/site-packages/django/contrib/auth/admin.py",
+		"/D/Projetos/premium/mpremium/mpremium/settings.py",
+		"/D/Projetos/premium/mpremium/catalog/admin.py",
+		"/C/Python27/Lib/site-packages/django/db/models/__init__.py",
+		"/C/Python27/Lib/site-packages/django/forms/models.py",
+		"/D/Projetos/premium/mp/applications/init/views/layout.html",
+		"/D/Projetos/premium/mp/applications/init/modules/helpers/__init__.py",
+		"/D/Projetos/premium/mp/applications/init/models/03_model.py",
+		"/D/Projetos/premium/mp/gluon/sqlhtml.py",
+		"/D/Projetos/premium/mp/applications/init/models/04_validators.py",
+		"/D/Projetos/premium/mp/applications/init/controllers/servidor.py",
+		"/D/Projetos/premium/mp/applications/init/languages/pt-br.py",
+		"/D/Projetos/premium/mp/applications/init/static/css/mp.css",
+		"/D/Projetos/premium/mp/applications/init/doc/urls.rst",
+		"/G/fgm/artigos/mock-stubs/artigo_testes-com-dubles.rst",
+		"/D/Projetos/premium/mp/applications/init/models/00_xtra.py",
+		"/D/Projetos/premium/mp/applications/init/modules/helpers/mail.py",
+		"/D/Projetos/premium/mp/applications/init/models/00_config.py",
+		"/D/Projetos/premium/mp/applications/init/models/01_app.py",
+		"/D/Projetos/premium/mp/applications/init/controllers/default.py",
+		"/D/Projetos/premium/mp/gluon/tools.py",
+		"/D/Projetos/premium/mp/gluon/storage.py",
+		"/D/Projetos/premium/mp/applications/init/models/05_views.py",
+		"/D/Projetos/premium/mp/gluon/contrib/login_methods/basic_auth.py",
+		"/D/Projetos/premium/mp/applications/init/views/loja/servidor.html",
+		"/D/Projetos/premium/mp/applications/init/views/loja/loja.html",
+		"/D/Projetos/premium/mp/applications/init/controllers/produtos.py",
+		"/D/Projetos/premium/mp/applications/init/views/home/index.html",
+		"/D/Projetos/premium/mp/applications/init/views/layout - Copy.html",
+		"/D/Projetos/premium/mp/applications/init/views/loja/index.html",
+		"/D/Projetos/premium/mp/applications/init/controllers/loja.py",
+		"/D/Programas/web2py/applications/store/views/product/show.html",
+		"/D/Projetos/premium/mp/applications/init/controllers/home.py",
+		"/D/Programas/web2py/applications/store/controllers/product.py",
+		"/D/Projetos/premium/mp/applications/init/controllers/img.py",
+		"/D/Projetos/premium/mp/applications/init/modules/helpers/sidebar.py",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Programas/web2py/applications/store/controllers/default.py",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/sublimelinter/modules/python.py",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.py",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/Package Control/package-metadata.json",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Projetos/premium/mp/router.py",
+		"/D/Projetos/premium/mp/applications/init/models/04_views.py",
+		"/D/Projetos/premium/mp/applications/init/models/00_globals.py",
+		"/D/Programas/web2py/applications/store/modules/helpers/mail.py",
+		"/D/Projetos/premium/mp/_web2py.bat",
+		"/D/Projetos/premium/mp/applications/init/modules/contas_fixture.json",
+		"/D/Programas/web2py/applications/mp/mp.sublime-project",
+		"/D/Programas/web2py/applications/mp/models/01_app.py",
+		"/D/Programas/web2py/applications/mp/models/01_loja.py",
+		"/D/Programas/web2py/applications/store/models/1_app.py",
+		"/D/Programas/web2py/applications/store/models/0_config.py",
+		"/D/Programas/web2py/applications/store/models/0.py",
+		"/D/Programas/web2py/applications/mp/modules/mp/loja.py",
+		"/D/Programas/web2py/applications/mp/views/servidor/show.html",
+		"/D/Programas/web2py/applications/mp/modules/mp/produto.py",
+		"/D/Programas/web2py/applications/mp/controllers/servidor.py",
+		"/D/temp/processing/pross_01.py",
+		"/D/Programas/web2py/applications/mp/modules/mp/loja.pyc",
+		"/D/Programas/web2py/gluon/contrib/login_methods/basic_auth.py",
+		"/D/Programas/web2py/applications/mp/models/00_globals.py",
+		"/D/Programas/web2py/applications/store/controllers/appadmin.py",
+		"/D/Programas/web2py/applications/mp/views/servidor/servidor.html",
+		"/D/Programas/web2py/routes.example.py",
+		"/D/Programas/web2py/applications/store/controllers/category.py",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Users/Sony VPC F137/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/D/Programas/web2py/applications/mp/views/servidor/index.html",
+		"/D/Programas/web2py/applications/mp/views/servidor/loja.html",
+		"/D/Programas/web2py/applications/mp/controllers/loja.py",
+		"/D/Programas/web2py/applications/mp/controllers/default.py",
+		"/D/Programas/web2py/applications/mp/controllers/produtos.py",
+		"/D/Programas/web2py/applications/mp/modules/mp/carrinho.py",
+		"/D/Programas/web2py/gluon/dal.py",
+		"/D/Programas/web2py/gluon/main.py",
+		"/D/Projetos/opensource/pygtalkrobot/pygtalkrobot/src/PyGtalkRobot.py",
+		"/D/Programas/web2py/applications/web2pystore/models/2_model.py",
+		"/D/Programas/web2py/applications/web2pystore/models/1_app.py",
+		"/D/Programas/web2py/applications/web2pystore/projeto.txt",
+		"/D/Projetos/opensource/alfredo/example.py",
+		"/D/temp/invert_file/invert.py",
+		"/D/Projetos/opensource/stoqdrivers/stoqdrivers-0.9.14/stoqdrivers/printers/bematech/MP2100.py",
+		"/D/Projetos/opensource/stoqdrivers/stoqdrivers-0.9.14/stoqdrivers/printers/bematech/MP25.py",
+		"/D/Projetos/opensource/stoqdrivers/stoqdrivers-0.9.14/stoqdrivers/serialbase.py",
+		"/D/temp/invert_file/source.txt",
+		"/D/Projetos/opensource/stoqdrivers/stoqdrivers-0.9.14/stoqdrivers/interfaces.py",
+		"/D/Projetos/opensource/pygtalkrobot/pygtalkrobot/src/sampleRobot.py",
+		"/D/Programas/web2py/gluon/portalocker.py",
+		"/D/Programas/web2py/gluon/newcron.py",
+		"/D/Programas/web2py/applications/web2pystore/models/app.py",
+		"/D/Programas/web2py/applications/web2pystore/models/model.py",
+		"/D/Programas/web2py/applications/web2pystore/models/config.py",
+		"/D/Programas/web2py/applications/web2pystore/models/1.py",
+		"/D/Programas/web2py/applications/web2pystore/models/0.py",
+		"/D/Programas/web2py/gluon/sqlhtml.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Sequence",
+			"load_command_line_configuration",
+			"conta",
+			"=T",
+			"slug",
+			"class (\\w+)",
+			"edit",
+			"SQLFORM.smartgrid",
+			"grid",
+			"sqlgrid",
+			"IS_SLUG",
+			"register",
+			"servidores",
+			"URL\\((.*?)\\)",
+			"../assets/(\\w+/[^\"]+)",
+			"../assets/(css/[^\"]+)",
+			"return",
+			"messages",
+			"message",
+			"mongod",
+			" db\\.?",
+			"\\bdb\\.",
+			"'))",
+			"index",
+			"space",
+			"inde",
+			"right_sidebar_enabled",
+			"RapidShare",
+			"rapd",
+			"\"Bienal\"",
+			"\"Vitalicio\"",
+			"\"Bimestral\"",
+			"\"Diário\"",
+			"\"Quatorzenal\"",
+			"\"Semanal\"",
+			"\"Semestral\"",
+			"\"Quinzenal\"",
+			"\"Anual\"",
+			"\"Trimestral\"",
+			"\"30\"",
+			"1 mês",
+			"\"validade\": (\\d+),\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 75,\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 5,\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 1,\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 14,\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 2,\n				\"tipo_de_validade\": \"anos\"",
+			"1",
+			"Bimensal",
+			"\"validade\": 1,\n				\"tipo_de_validade\": \"vitalicio\"",
+			"\"validade\": 2,\n				\"tipo_de_validade\": \"meses\"",
+			"\"validade\": 15,\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 7,\n				\"tipo_de_validade\": \"dias\"",
+			"\"validade\": 1,\n				\"tipo_de_validade\": \"anos\"",
+			"\"validade\": 6,\n				\"tipo_de_validade\": \"meses\"",
+			"\"validade\": 3,\n				\"tipo_de_validade\": \"meses\"",
+			"\"validade\": 1,\n				\"tipo_de_validade\": \"meses\"",
+			"\"validade\": 7,\n				\"tipo_de_validade\": \"dias\"",
+			"nome",
+			"right_sidebar",
+			"side",
+			"sidebar",
+			"left_sidebar_enabled",
+			"\"validade\" : \\{\n					\"qtd\" : ([^,]+),\n					\"un\" : \"(\\w+)\"\n				\\}",
+			"\"validade\" : {\n					\"qtd\" : ([^,]+),\n					\"un\" : \"(\\w+)\"\n				}",
+			"\"v\"",
+			"\"i\"",
+			"\"d\"",
+			"\"a\"",
+			"\"m\"",
+			"loja",
+			"\"validade\": (0.5),",
+			"\"validade\": (\\d+),",
+			"\"validade\": (\\d),",
+			"tab",
+			"href"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"product",
+			"class \\1(admin.ModelAdmin):\n    pass\n\n\n",
+			"{{=URL(\\1)}}",
+			"URL('static','\\1')",
+			"self.db.",
+			"730",
+			"9999",
+			"60",
+			"1",
+			"14",
+			"7",
+			"180",
+			"15",
+			"365",
+			"90",
+			"30",
+			"\"duracao\": \\1",
+			"\"duracao\": 75",
+			"\"duracao\": 5",
+			"\"duracao\": \"Diário\"",
+			"\"duracao\": \"Quatorzenal\"",
+			"\"duracao\": \"Bienal\"",
+			"Bimestral",
+			"\"duracao\": \"Vitalicio\"",
+			"\"duracao\": \"Bimensal\"",
+			"\"duracao\": \"Quinzenal\"",
+			"\"duracao\": \"Semanal\"",
+			"\"duracao\": \"Anual\"",
+			"\"duracao\": \"Semestral\"",
+			"\"duracao\": \"Trimestral\"",
+			"\"duracao\": \"1 mês\"",
+			"\"duracao\": \"7 dias\"",
+			"\"validade\": \\1,\n				\"tipo_de_validade\": \"\\2\"",
+			"\"validade\": \\1,\n\"tipo_de_validade\": \"\\2\"",
+			"\"dias\"",
+			"\"anos\"",
+			"\"meses\"",
+			"db",
+			"\"validade\": {\"qtd\": 15, \"un\":\"d\"},",
+			"\"validade\": {\"qtd\": \\1, \"un\":\"a\"},",
+			"\"validade\": {\"qtd\": \\1, \"un\":\"m\"},"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exercicios01/baralho_polimorfico.py",
+					"settings":
+					{
+						"buffer_size": 2329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1390,
+								1390
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 548.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 86.0
+	},
+	"replace":
+	{
+		"height": 239.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"default",
+				"django/template/defaultfilters.py"
+			],
+			[
+				"django/te",
+				"django/template/defaulttags.py"
+			],
+			[
+				"templates",
+				"django/contrib/flatpages/tests/templatetags.py"
+			],
+			[
+				"setti",
+				"mpremium/mpremium/settings.py"
+			],
+			[
+				"short",
+				"django/shortcuts/__init__.py"
+			],
+			[
+				"template",
+				"django/template/base.py"
+			],
+			[
+				"base_site.",
+				"django/contrib/admin/templates/admin/base_site.html"
+			],
+			[
+				"django/db/models/fields",
+				"django/db/models/fields/__init__.py"
+			],
+			[
+				"django/db/models",
+				"django/db/models/__init__.py"
+			],
+			[
+				"django/db/fie",
+				"django/contrib/gis/db/models/fields.py"
+			],
+			[
+				"admin",
+				"django/contrib/auth/admin.py"
+			],
+			[
+				"model",
+				"django/db/models/base.py"
+			],
+			[
+				"models",
+				"django/forms/models.py"
+			],
+			[
+				"valida",
+				"web2py/gluon/validators.py"
+			],
+			[
+				"pt-b",
+				"mundo_premium/languages/pt-br.py"
+			],
+			[
+				"layout",
+				"mundo_premium/views/layout.html"
+			],
+			[
+				"show",
+				"mundo_premium/views/servidor/show.html"
+			],
+			[
+				"helper",
+				"mundo_premium/modules/helpers/__init__.py"
+			],
+			[
+				"stora",
+				"web2py/gluon/storage.py"
+			],
+			[
+				"auth",
+				"web2py/gluon/contrib/login_methods/basic_auth.py"
+			],
+			[
+				"0",
+				"mundo_premium/models/03_model.py"
+			],
+			[
+				"mail",
+				"init/modules/helpers/mail.py"
+			],
+			[
+				"01",
+				"init/models/01_app.py"
+			],
+			[
+				"contrib",
+				"web2py/gluon/contrib/login_methods/basic_auth.py"
+			],
+			[
+				"dal",
+				"web2py/gluon/dal.py"
+			],
+			[
+				"portal",
+				"web2py/gluon/portalocker.py"
+			],
+			[
+				"cron",
+				"web2py/gluon/newcron.py"
+			],
+			[
+				"sqlhtml",
+				"web2py/gluon/sqlhtml.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}
