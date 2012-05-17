@@ -38,6 +38,9 @@ Testes de `add`::
 '''
 
 from collections import Sequence
+from busca_bin import busca_bin
+import bisect
+
 
 class ListaOrdenada(Sequence):
     def __init__(self, iteravel):
@@ -51,7 +54,11 @@ class ListaOrdenada(Sequence):
 
     def add(self, novo):
         """Insere um item na lista ordenada, mantendo a ordem."""
-        raise NotImplementedError('Exercício: implementar este médodo')
+        bisect.insort(self.__lista, novo)
+
+    def __contains__(self, item):
+        return (busca_bin(self.__lista, item) != -1)
+
 
 def desempenho():
     from timeit import repeat
